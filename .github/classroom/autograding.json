@@ -5,7 +5,7 @@
       "setup": "make main",
       "run": "./main",
       "input": "1\r\n10",
-      "output": "Masukkan banyaknya mahasiswa: 1  \r\nMasukkan nilai ke-1: 10\r\n\r\nData nilai setelah diurutkan:\r\n10\r\nRata-rata nilai: 10.00\r\nJumlah mahasiswa yang lulus adalah 1 mahasiswa dari 1 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n10\r\nRata-rata nilai: 10.00\r\nJumlah mahasiswa yang lulus adalah 1 mahasiswa dari 1 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "",
       "run": "./main",
       "input": "5\r\n60\r\n70\r\n90\r\n80\r\n50",
-      "output": "Masukkan banyaknya mahasiswa: 5\r\nMasukkan nilai ke-1: 60\r\nMasukkan nilai ke-2: 70\r\nMasukkan nilai ke-3: 90\r\nMasukkan nilai ke-4: 80\r\nMasukkan nilai ke-5: 50\r\n\r\nData nilai setelah diurutkan:\r\n90 80 70 60 50\r\nRata-rata nilai: 70.00\r\nJumlah mahasiswa yang lulus adalah 3 mahasiswa dari 5 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n90 80 70 60 50\r\nRata-rata nilai: 70.00\r\nJumlah mahasiswa yang lulus adalah 3 mahasiswa dari 5 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -25,7 +25,7 @@
       "setup": "",
       "run": "./main",
       "input": "0\r\n-1\r\n2\r\n100\r\n90",
-      "output": "Masukkan banyaknya mahasiswa: 0\r\nInput tidak valid!\r\nMasukkan banyaknya mahasiswa: -1\r\nInput tidak valid!\r\nMasukkan banyaknya mahasiswa: 2\r\nMasukkan nilai ke-1: 100\r\nMasukkan nilai ke-2: 90\r\n\r\nData nilai setelah diurutkan:\r\n100 90\r\nRata-rata nilai: 95.00\r\nJumlah mahasiswa yang lulus adalah 1 mahasiswa dari 2 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n100 90\r\nRata-rata nilai: 95.00\r\nJumlah mahasiswa yang lulus adalah 1 mahasiswa dari 2 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./main",
       "input": "3\r\n1\r\n2\r\n3",
-      "output": "Masukkan banyaknya mahasiswa: 3\r\nMasukkan nilai ke-1: 1\r\nMasukkan nilai ke-2: 2\r\nMasukkan nilai ke-3: 3\r\n\r\nData nilai setelah diurutkan:\r\n3 2 1\r\nRata-rata nilai: 2.00\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 3 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n3 2 1\r\nRata-rata nilai: 2.00\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 3 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "./main",
       "input": "4\r\n1\r\n1\r\n2\r\n2",
-      "output": "Masukkan banyaknya mahasiswa: 4 \r\nMasukkan nilai ke-1: 1\r\nMasukkan nilai ke-2: 1\r\nMasukkan nilai ke-3: 2\r\nMasukkan nilai ke-4: 2\r\n\r\nData nilai setelah diurutkan:\r\n2 2 1 1\r\nRata-rata nilai: 1.50\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 4 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n2 2 1 1\r\nRata-rata nilai: 1.50\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 4 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -55,7 +55,7 @@
       "setup": "",
       "run": "./main",
       "input": "0\r\n3\r\n9\r\n5\r\n7",
-      "output": "Masukkan banyaknya mahasiswa: 0\r\nInput tidak valid!\r\nMasukkan banyaknya mahasiswa: 3\r\nMasukkan nilai ke-1: 9  \r\nMasukkan nilai ke-2: 5\r\nMasukkan nilai ke-3: 7\r\n\r\nData nilai setelah diurutkan:\r\n9 7 5\r\nRata-rata nilai: 7.00\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 3 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n9 7 5\r\nRata-rata nilai: 7.00\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 3 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -65,7 +65,7 @@
       "setup": "",
       "run": "./main",
       "input": "-6\r\n-5\r\n0\r\n1\r\n1",
-      "output": "Masukkan banyaknya mahasiswa: -6\r\nInput tidak valid!\r\nMasukkan banyaknya mahasiswa: -5\r\nInput tidak valid!\r\nMasukkan banyaknya mahasiswa: 0\r\nInput tidak valid!\r\nMasukkan banyaknya mahasiswa: 1\r\nMasukkan nilai ke-1: 1\r\n\r\nData nilai setelah diurutkan:\r\n1\r\nRata-rata nilai: 1.00\r\nJumlah mahasiswa yang lulus adalah 1 mahasiswa dari 1 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n1\r\nRata-rata nilai: 1.00\r\nJumlah mahasiswa yang lulus adalah 1 mahasiswa dari 1 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -75,7 +75,7 @@
       "setup": "",
       "run": "./main",
       "input": "6\r\n70\r\n20\r\n30\r\n57\r\n48\r\n34",
-      "output": "Masukkan banyaknya mahasiswa: 6\r\nMasukkan nilai ke-1: 70\r\nMasukkan nilai ke-2: 20\r\nMasukkan nilai ke-3: 30\r\nMasukkan nilai ke-4: 57\r\nMasukkan nilai ke-5: 48\r\nMasukkan nilai ke-6: 34\r\n\r\nData nilai setelah diurutkan:\r\n70 57 48 34 30 20\r\nRata-rata nilai: 43.17\r\nJumlah mahasiswa yang lulus adalah 3 mahasiswa dari 6 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n70 57 48 34 30 20\r\nRata-rata nilai: 43.17\r\nJumlah mahasiswa yang lulus adalah 3 mahasiswa dari 6 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -85,7 +85,7 @@
       "setup": "",
       "run": "./main",
       "input": "6\r\n1\r\n1\r\n1\r\n1\r\n4\r\n4",
-      "output": "Masukkan banyaknya mahasiswa: 6\r\nMasukkan nilai ke-1: 1\r\nMasukkan nilai ke-2: 1\r\nMasukkan nilai ke-3: 1\r\nMasukkan nilai ke-4: 1\r\nMasukkan nilai ke-5: 4\r\nMasukkan nilai ke-6: 4\r\n\r\nData nilai setelah diurutkan:\r\n4 4 1 1 1 1\r\nRata-rata nilai: 2.00\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 6 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n4 4 1 1 1 1\r\nRata-rata nilai: 2.00\r\nJumlah mahasiswa yang lulus adalah 2 mahasiswa dari 6 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -95,7 +95,7 @@
       "setup": "",
       "run": "./main",
       "input": "3\r\n50\r\n50\r\n50",
-      "output": "Masukkan banyaknya mahasiswa: 3\r\nMasukkan nilai ke-1: 50\r\nMasukkan nilai ke-2: 50\r\nMasukkan nilai ke-3: 50\r\n\r\nData nilai setelah diurutkan:\r\n50 50 50\r\nRata-rata nilai: 50.00\r\nJumlah mahasiswa yang lulus adalah 3 mahasiswa dari 3 mahasiswa",
+      "output": "Data nilai setelah diurutkan:\r\n50 50 50\r\nRata-rata nilai: 50.00\r\nJumlah mahasiswa yang lulus adalah 3 mahasiswa dari 3 mahasiswa",
       "comparison": "included",
       "timeout": 1,
       "points": 10
